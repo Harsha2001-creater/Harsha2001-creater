@@ -36,36 +36,61 @@
 
 
 
-# Hi there! 👋 I'm Sri Harsha Vardhan M
+<h1 align="center">Hi there! 👋 I'm <span style="color:#ffcc00">Sri Harsha Vardhan M</span></h1>
 
 ### A passionate graduate student in Data Science seeking opportunities to contribute my skills and knowledge in a dynamic academic environment. Eager to apply my expertise in data analysis, machine learning, and programming to support research initiatives, assist faculty members, and engage in collaborative projects that advance the field of data science within the university setting.
 
 - 🌱 I’m currently learning **Data Science**
-
 - 👨‍💻 All of my projects are available at [https://msriharshavardhan2.wixsite.com/home](https://msriharshavardhan2.wixsite.com/home)
-
 - 📝 I regularly write articles on [https://medium.com/@SriHarshaWrites](https://medium.com/@SriHarshaWrites)
-
-- 📫 How to reach me **msriharshavardhan2001@gmail.com**
-
+- 📫 How to reach me: **msriharshavardhan2001@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)
+- ⚡ Fun fact: **I Love Cricket but can't play Regularly**
 
-- ⚡ Fun fact **I Love Cricket but can't play Regularly**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sklearn.png" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://img.icons8.com/windows/48/000000/adobe-xd.png" alt="Adobe XD" width="40" height="40"/>
+</p>
 
-### Connect with me:
-[![Linkedin: sriharshavardhanm](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sriharshavardhanm/)
-[![Medium: @sriharshawrites](https://img.icons8.com/color/48/000000/medium-logo--v1.png)](https://medium.com/@sriharshawrites)
-[![HackerRank: msriharshavardh1](https://img.icons8.com/windows/48/000000/hackerrank.png)](https://www.hackerrank.com/profile/msriharshavardh1)
-[![LeetCode: harsha-2001](https://img.icons8.com/windows/48/000000/leetcode.png)](https://leetcode.com/harsha-2001/)
+### Education:
+- **University of Maryland, Baltimore County**
+  - Masters in Data Science (Aug. 2023 – Present)
+  - CGPA: 4.0/4.0
 
-### Languages and Tools:
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap, ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3, ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5, ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB, ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL, ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas, ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React, ![Sass](https://img.icons8.com/color/48/000000/sass.png) Sass, ![scikit-learn](https://img.icons8.com/color/48/000000/sklearn.png) scikit-learn, ![Adobe XD](https://img.icons8.com/windows/48/000000/adobe-xd.png) Adobe XD
+### Experience:
+- **COGNIZANT, Bangalore, Karnataka**
+  - Program Analyst (Jun. 2022 - Present)
+    - Working on a Bank related project with a team of 6.
+    - Worked as a Salesforce administrator.
+    - Used flows and Apex.
+    - Achieved certification in Process Automation.
 
-### Support:
-If you enjoy my work, consider supporting me with a coffee! [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/sriharshavardhan)
+  - Salesforce Trainee (Jan. 2022 – Jun. 2022)
+    - Worked as an Intern.
+    - Trained in both admin and developer parts.
+    - Completed a project which includes LWC and Point & Click tools.
+    - Achieved Ranger Badge in Trailhead Platform.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha2001-creater&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  - Qbec Infosal, Chennai, Tamil Nadu
+    - Front End Developer Intern (Jan. 2021 – Mar. 2021)
+      - Worked on a Project named Uni Reo – Web Application.
+      - Users can apply for their desired Universities.
+      - Used Redux for managing state and written in React JS
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=harsha2001-creater&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Support:</h3>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/sriharshavardhan">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
+  </a>
+</p>
