@@ -24,35 +24,66 @@
 
 - 📫 Reach out at [![Email](https://img.shields.io/badge/-msriharshavardhan2001%40gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:msriharshavardhan2001@gmail.com)](mailto:msriharshavardhan2001@gmail.com)
 
-- 📄 Learn more about my journey [![Resume](https://img.shields.io/badge/-Resume-0a66c2?style=flat-square&labelColor=000000&logo=LinkedIn&link=https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)
+- 📄 Learn more about my journey [![Resume](https://img.shields.io/badge/-Resume-0a66c2?style=flat-square&labelColor=000000&logo=resume&link=https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)
+
+  
+- Connect with me  [![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=flat-square&labelColor=000000&logo=LinkedIn&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/sriharshavardhanm)/)
+
 
 - ⚡ - Fun fact: Cricket ⚾ aficionado, even though I can't play regularly
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <!-- Web -->
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+<p align="center">
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" style="max-width: 100%;">
+  </a>
+  <!-- CSS3 -->
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" style="max-width: 100%;">
+  </a>
+  <!-- HTML5 -->
+  <a href="https://html.spec.whatwg.org/multipage/" rel="nofollow">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" style="max-width: 100%;">
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" style="max-width: 100%;">
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org" rel="nofollow">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" style="max-width: 100%;">
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" style="max-width: 100%;">
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" style="max-width: 100%;">
+  </a>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org" rel="nofollow">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" style="max-width: 100%;">
+  </a>
+  <!-- scikit-learn -->
+  <a href="https://scikit-learn.org/stable/" rel="nofollow">
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" style="max-width: 100%;">
+  </a>
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="Power BI" style="max-width: 100%;">
+  </a>
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" rel="nofollow">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="Excel" style="max-width: 100%;">
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" style="max-width: 100%;">
+  </a>
 </p>
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <!-- Databases -->
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <!-- AI/ML -->
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sklearn.png" alt="scikit-learn" width="40" height="40"/>
-</p>
 
 
 ### Education:
