@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **msriharshavardhan2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)
+- 📄 Know about my experiences <a href="[https://linkedin.com/in/https://www.linkedin.com/in/sriharshavardhanm/](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks)" target="blank">Here</a>
 
 - ⚡ Fun fact **I Love Cricket but can't play Regulraly**
 
