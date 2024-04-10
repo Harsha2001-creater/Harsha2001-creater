@@ -5,7 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://msriharshavardhan2.wixsite.com/home](https://msriharshavardhan2.wixsite.com/home)
 
+- 📝 I regularly write articles on [https://medium.com/@SriHarshaWrites](https://medium.com/@SriHarshaWrites)
+
 - 📫 How to reach me **msriharshavardhan2001@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)
+
+- ⚡ Fun fact **I Love Cricket but can't play Regulraly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
