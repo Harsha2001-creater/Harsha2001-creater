@@ -32,3 +32,40 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sriharshavardhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sriharshavardhan" /></a></p><br><br>
+
+
+
+
+# Hi there! 👋 I'm Sri Harsha Vardhan M
+
+### A passionate graduate student in Data Science seeking opportunities to contribute my skills and knowledge in a dynamic academic environment. Eager to apply my expertise in data analysis, machine learning, and programming to support research initiatives, assist faculty members, and engage in collaborative projects that advance the field of data science within the university setting.
+
+- 🌱 I’m currently learning **Data Science**
+
+- 👨‍💻 All of my projects are available at [https://msriharshavardhan2.wixsite.com/home](https://msriharshavardhan2.wixsite.com/home)
+
+- 📝 I regularly write articles on [https://medium.com/@SriHarshaWrites](https://medium.com/@SriHarshaWrites)
+
+- 📫 How to reach me **msriharshavardhan2001@gmail.com**
+
+- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)
+
+- ⚡ Fun fact **I Love Cricket but can't play Regularly**
+
+### Connect with me:
+[![Linkedin: sriharshavardhanm](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sriharshavardhanm/)
+[![Medium: @sriharshawrites](https://img.icons8.com/color/48/000000/medium-logo--v1.png)](https://medium.com/@sriharshawrites)
+[![HackerRank: msriharshavardh1](https://img.icons8.com/windows/48/000000/hackerrank.png)](https://www.hackerrank.com/profile/msriharshavardh1)
+[![LeetCode: harsha-2001](https://img.icons8.com/windows/48/000000/leetcode.png)](https://leetcode.com/harsha-2001/)
+
+### Languages and Tools:
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap, ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3, ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5, ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB, ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL, ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas, ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React, ![Sass](https://img.icons8.com/color/48/000000/sass.png) Sass, ![scikit-learn](https://img.icons8.com/color/48/000000/sklearn.png) scikit-learn, ![Adobe XD](https://img.icons8.com/windows/48/000000/adobe-xd.png) Adobe XD
+
+### Support:
+If you enjoy my work, consider supporting me with a coffee! [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/sriharshavardhan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha2001-creater&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=harsha2001-creater&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
