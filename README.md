@@ -1,3 +1,4 @@
+<div style="background-color: #1f1f1f; padding: 20px;">
 <h1 align="center">Hi there! 👋 I'm <span style="color:#ffcc00">Sri Harsha Vardhan M</span></h1>
 
 ### A passionate graduate student in Data Science seeking opportunities to contribute my skills and knowledge in a dynamic academic environment. Eager to apply my expertise in data analysis, machine learning, and programming to support research initiatives, assist faculty members, and engage in collaborative projects that advance the field of data science within the university setting.
@@ -54,9 +55,8 @@
 
 <div style="display:flex; justify-content:space-between">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha2001-creater&show_icons=true&locale=en&layout=compact" alt="harsha2001-creater" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha2001-creater&show_icons=true&locale=en" alt="harsha2001-creater" width="400" />
 </div>
-
+</div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sriharshavardhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sriharshavardhan" /></a></p><br><br>
