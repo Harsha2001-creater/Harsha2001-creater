@@ -21,6 +21,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sriharshavardhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sriharshavardhan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha2001-creater&show_icons=true&locale=en&layout=compact" alt="harsha2001-creater" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha2001-creater&show_icons=true&locale=en&layout=compact" alt="harsha2001-creater" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha2001-creater&show_icons=true&locale=en" alt="harsha2001-creater" /></p>
