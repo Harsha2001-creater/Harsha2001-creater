@@ -1,4 +1,9 @@
 <div style="background-color: #1f1f1f; padding: 20px;">
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1580191947416-62d35a55e71d?w=1600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2VsY29tZXxlbnwwfDB8MHx8fDA%3D" alt="Profile Banner" style="width: 100%; height: 350px">
+</div>
+
+
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Wave GIF" width="50" height="50"> Hey there, I'm <span style="color:#ffcc00">Sri Harsha Vardhan M</span></h1>
 
