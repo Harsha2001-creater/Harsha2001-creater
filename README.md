@@ -24,7 +24,7 @@
 
 - 📫 Reach out at [![Email](https://img.shields.io/badge/-msriharshavardhan2001%40gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:msriharshavardhan2001@gmail.com)](mailto:msriharshavardhan2001@gmail.com)
 
-- 📄 Learn more about my journey [![Resume](https://img.shields.io/badge/-Resume-0a66c2?style=flat-square&labelColor=000000&logo=resume&link=https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)
+- 📄 Learn more about my journey [![Resume](https://img.shields.io/badge/-Resume-0a66c2?style=flat-square&labelColor=000000&logo=resume&link=[https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks))]([https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks))
 
   
 - 🤝 Connect with me  [![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=flat-square&labelColor=000000&logo=LinkedIn&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/[www.linkedin.com/in/sriharshavardhanm](https://www.linkedin.com/in/sriharshavardhanm)/)
