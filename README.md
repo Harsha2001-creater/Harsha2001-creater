@@ -27,7 +27,7 @@
 - 📄 Learn more about my journey [![Resume](https://img.shields.io/badge/-Resume-0a66c2?style=flat-square&labelColor=000000&logo=resume&link=https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)](https://drive.google.com/drive/folders/1L73hcZNihTv0P5PmuPsqgAOWSauT12Ks?usp=sharing)
 
   
-- Connect with me  [![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=flat-square&labelColor=000000&logo=LinkedIn&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/sriharshavardhanm)/)
+- 🤝 Connect with me  [![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=flat-square&labelColor=000000&logo=LinkedIn&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/[www.linkedin.com/in/sriharshavardhanm](https://www.linkedin.com/in/sriharshavardhanm)/)
 
 
 - ⚡ - Fun fact: Cricket ⚾ aficionado, even though I can't play regularly
@@ -98,7 +98,7 @@
 
 ### Experience:
 - **COGNIZANT, Bangalore, Karnataka**
-  - *Program Analyst* (Jun. 2022 - Present)
+  - *Program Analyst* (Jun. 2022 - Jun. 2023)
     - Working on a Bank related project with a team of 6.
     - Worked as a Salesforce administrator.
     - Achieved certification in Process Automation.
