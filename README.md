@@ -102,19 +102,6 @@
   - CGPA: 9.17/10.0
   - Univerity Gold Medalist
 
-### Experience:
-- **COGNIZANT, Bangalore, Karnataka**
-  - *Program Analyst* (Jun. 2022 - Jun. 2023)
-    - Working on a Bank related project with a team of 6.
-    - Worked as a Salesforce administrator.
-    - Achieved certification in Process Automation.
-
-  - *Salesforce Trainee* (Jan. 2022 – Jun. 2022)
-    - Worked as an Intern.
-    - Trained in both admin and developer parts.
-    - Completed a project which includes LWC and Point & Click tools.
-    - Achieved Ranger Badge in Trailhead Platform.
-
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha2001-creater&show_icons=true&locale=en&layout=compact" alt="harsha2001-creater" width="400" />
