@@ -39,56 +39,87 @@
 - ⚡ - Fun fact: Cricket ⚾ aficionado, even though I can't play regularly
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" style="max-width: 100%;">
+<div align="center">
+  <!-- Programming Languages -->
+  <a href="https://www.python.org/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-  <!-- CSS3 -->
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" style="max-width: 100%;">
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" rel="nofollow">
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
   </a>
-  <!-- HTML5 -->
-  <a href="https://html.spec.whatwg.org/multipage/" rel="nofollow">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" style="max-width: 100%;">
-  </a>
-  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
-  <!-- Python -->
-  <a href="https://www.python.org" rel="nofollow">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" style="max-width: 100%;">
+  
+  <!-- Data Visualization -->
+  <a href="https://powerbi.microsoft.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" rel="nofollow">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" style="max-width: 100%;">
+  <a href="https://matplotlib.org/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
   </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" style="max-width: 100%;">
+  
+  <!-- Cloud & Tools -->
+  <a href="https://azure.microsoft.com/en-us/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org" rel="nofollow">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" style="max-width: 100%;">
+  <a href="https://azure.microsoft.com/en-us/products/data-factory/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white" alt="Azure Data Factory">
   </a>
-  <!-- scikit-learn -->
-  <a href="https://scikit-learn.org/stable/" rel="nofollow">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" style="max-width: 100%;">
+  <a href="https://azure.microsoft.com/en-us/products/databricks/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks">
   </a>
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="Power BI" style="max-width: 100%;">
-  </a>
-  <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" rel="nofollow">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="Excel" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" style="max-width: 100%;">
+  
+  <!-- Databases & Data Engineering -->
+  <a href="https://www.mysql.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
-</p>
+  <a href="https://en.wikipedia.org/wiki/Data_warehouse" rel="nofollow">
+    <img src="https://img.shields.io/badge/Data%20Warehousing-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Warehousing">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Query_optimization" rel="nofollow">
+    <img src="https://img.shields.io/badge/SQL%20Query%20Optimization-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Query Optimization">
+  </a>
+  
+  <!-- Business & Data Analysis -->
+  <a href="https://en.wikipedia.org/wiki/Requirements_analysis" rel="nofollow">
+    <img src="https://img.shields.io/badge/Requirement%20Gathering-4B8BBE?style=for-the-badge&logo=data&logoColor=white" alt="Requirement Gathering">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Business_intelligence" rel="nofollow">
+    <img src="https://img.shields.io/badge/Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Business Intelligence">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Data_governance" rel="nofollow">
+    <img src="https://img.shields.io/badge/Data%20Governance-0078D4?style=for-the-badge&logo=data&logoColor=white" alt="Data Governance">
+  </a>
+  
+  <!-- ETL & Automation -->
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" rel="nofollow">
+    <img src="https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge&logo=data&logoColor=white" alt="ETL">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/API" rel="nofollow">
+    <img src="https://img.shields.io/badge/API%20Integration-46a2f1?style=for-the-badge&logo=data&logoColor=white" alt="API Integration">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CI/CD" rel="nofollow">
+    <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD Pipelines">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Feature_engineering" rel="nofollow">
+    <img src="https://img.shields.io/badge/Feature%20Engineering-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Feature Engineering">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Data_pipeline" rel="nofollow">
+    <img src="https://img.shields.io/badge/Data%20Pipeline%20Automation-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white" alt="Data Pipeline Automation">
+  </a>
+  
+  <!-- Soft Skills -->
+  <a href="https://en.wikipedia.org/wiki/Cross-functional_team" rel="nofollow">
+    <img src="https://img.shields.io/badge/Cross--functional%20Collaboration-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Cross-functional Collaboration">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Critical_thinking" rel="nofollow">
+    <img src="https://img.shields.io/badge/Analytical%20Thinking-4B8BBE?style=for-the-badge&logo=data&logoColor=white" alt="Analytical Thinking">
+  </a>
+</div>
 
 
 
