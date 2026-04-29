@@ -8,12 +8,11 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Wave GIF" width="50" height="50"> Hey there, I'm <span style="color:#ffcc00">Sri Harsha Vardhan M</span></h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F75305&amp;size=30&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;lines=Front+End+Developer;Data+Analyst;Power+BI+Analyst;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!" alt="Typing SVG" style="max-width: 100%;">
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75305&size=28&center=true&vCenter=true&width=700&height=60&lines=Data+Engineer;Azure+%26+Databricks+Specialist;PySpark+%7C+SQL+%7C+Streaming;Lakehouse+Architect" />
 </div>
 
 
-| Passionate about Data Science and its transformative potential. Currently exploring the realms of data analysis, machine learning, and programming, eager to contribute to innovative projects and research initiatives. | <div align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611oogvdkp479t4d6hb10je4x2xxdct3p47lz86t7ar&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Data Science GIF" width="300" height="200"/></div> |
+| Data Engineer with 4+ years of experience building scalable batch and streaming data platforms on Azure and AWS. Skilled in PySpark, Databricks, and Delta Lake, with hands-on experience designing medallion architectures for healthcare analytics and AI-driven solutions. | <div align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611oogvdkp479t4d6hb10je4x2xxdct3p47lz86t7ar&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Data Engineering GIF" width="300" height="200"/></div> |
 | --- | --- |
 
 
@@ -38,95 +37,58 @@
 
 - ⚡ - Fun fact: Cricket ⚾ aficionado, even though I can't play regularly
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<div align="center">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" rel="nofollow">
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  
-  <!-- Data Visualization -->
-  <a href="https://powerbi.microsoft.com/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  </a>
-  <a href="https://matplotlib.org/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  </a>
-  
-  <!-- Cloud & Tools -->
-  <a href="https://azure.microsoft.com/en-us/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  </a>
-  <a href="https://azure.microsoft.com/en-us/products/data-factory/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white" alt="Azure Data Factory">
-  </a>
-  <a href="https://azure.microsoft.com/en-us/products/databricks/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks">
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" rel="nofollow">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  </a>
-  
-  <!-- Databases & Data Engineering -->
-  <a href="https://www.mysql.com/" rel="nofollow">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_warehouse" rel="nofollow">
-    <img src="https://img.shields.io/badge/Data%20Warehousing-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Warehousing">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Query_optimization" rel="nofollow">
-    <img src="https://img.shields.io/badge/SQL%20Query%20Optimization-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Query Optimization">
-  </a>
-  
-  <!-- Business & Data Analysis -->
-  <a href="https://en.wikipedia.org/wiki/Requirements_analysis" rel="nofollow">
-    <img src="https://img.shields.io/badge/Requirement%20Gathering-4B8BBE?style=for-the-badge&logo=data&logoColor=white" alt="Requirement Gathering">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Business_intelligence" rel="nofollow">
-    <img src="https://img.shields.io/badge/Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Business Intelligence">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_governance" rel="nofollow">
-    <img src="https://img.shields.io/badge/Data%20Governance-0078D4?style=for-the-badge&logo=data&logoColor=white" alt="Data Governance">
-  </a>
-  
-  <!-- ETL & Automation -->
-  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" rel="nofollow">
-    <img src="https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge&logo=data&logoColor=white" alt="ETL">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/API" rel="nofollow">
-    <img src="https://img.shields.io/badge/API%20Integration-46a2f1?style=for-the-badge&logo=data&logoColor=white" alt="API Integration">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/CI/CD" rel="nofollow">
-    <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD Pipelines">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Feature_engineering" rel="nofollow">
-    <img src="https://img.shields.io/badge/Feature%20Engineering-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Feature Engineering">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_pipeline" rel="nofollow">
-    <img src="https://img.shields.io/badge/Data%20Pipeline%20Automation-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white" alt="Data Pipeline Automation">
-  </a>
-  
-  <!-- Soft Skills -->
-  <a href="https://en.wikipedia.org/wiki/Cross-functional_team" rel="nofollow">
-    <img src="https://img.shields.io/badge/Cross--functional%20Collaboration-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Cross-functional Collaboration">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Critical_thinking" rel="nofollow">
-    <img src="https://img.shields.io/badge/Analytical%20Thinking-4B8BBE?style=for-the-badge&logo=data&logoColor=white" alt="Analytical Thinking">
-  </a>
-</div>
+<h3 align="left">⚡ Data Engineering Stack:</h3>
 
+<div align="center">
+
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+  <!-- Big Data & Lakehouse -->
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lakehouse%20Architecture-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+
+  <!-- Cloud Platforms -->
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- Storage & Warehousing -->
+  <img src="https://img.shields.io/badge/ADLS%20Gen2-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+
+  <!-- Streaming & Pipelines -->
+  <img src="https://img.shields.io/badge/Structured%20Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-4B8BBE?style=for-the-badge&logo=data&logoColor=white" />
+
+  <!-- Orchestration & Transformation -->
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+
+  <!-- Healthcare Domain -->
+  <img src="https://img.shields.io/badge/Healthcare%20Data-0A66C2?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/EHR%20%2F%20EMR-4B8BBE?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/HEDIS%20Metrics-F7931E?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claims%20Data-0089D6?style=for-the-badge&logo=data&logoColor=white" />
+
+</div>
 
 
 ### Education:
 - **University of Maryland, Baltimore County**
-  - *Masters in Data Science* (Aug. 2023 – Present)
-  - CGPA: 4.0/4.0
+  - *Masters in Data Science* (Aug. 2023 – May. 2025)
+  - CGPA: 3.97/4.0
 
 - **Saveetha University**
   - *Bachelor of Engineering, Computer Science* (Aug. 2018 – July. 2022)
